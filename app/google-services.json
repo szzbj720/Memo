@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94711353490",
+    "project_id": "memo-travel-journal",
+    "storage_bucket": "memo-travel-journal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94711353490:android:01aaff77dd303144cdd64b",
+        "android_client_info": {
+          "package_name": "edu.nd.pmcburne.hwapp.one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEJFGF2R8i3BCpkPQtCJxgzJUP486VUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
